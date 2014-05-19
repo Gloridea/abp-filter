@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+!
+!abp:subscribe?location=https://github.com/Gloridea/abp-filter/raw/filter.txt
+||keywordsconnect.com
+@@naver.com
+@@daum.net
