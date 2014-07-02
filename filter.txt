@@ -4,5 +4,6 @@
 ||keywordsconnect.com
 ||interworksmedia.co.kr
 ||ar.donga.com
+||realclick.co.kr
 @@||naver.com^@document
 @@||daum.net^$document
